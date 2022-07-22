@@ -1,7 +1,7 @@
 # Merhaba, ben Furkan YILDIRIM! 
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
+<p align="left"> <img align="left" src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
     alt="FurkanYildirim" /> </p>
-<p align="right"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanYildirim&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanYildirim&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="FurkanYildirim" 
     bg_color=#808080/></p>
 
