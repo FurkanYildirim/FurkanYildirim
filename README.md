@@ -43,4 +43,3 @@
     <img src="https://komarev.com/ghpvc/?username=chaitanya-pratap-singh">
 </a>
 
-[![](https://img.shields.io/github/followers/FurkanYildirim?style=social)](https://www.github.com/FurkanYildirim)
