@@ -12,7 +12,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=iamirulofficial&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+  <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanYildirim&theme=dark&hide_border=true" />
 
