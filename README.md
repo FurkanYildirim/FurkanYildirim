@@ -3,7 +3,6 @@
     alt="FurkanYildirim" /> </p>
 
 [![](https://img.shields.io/github/followers/FurkanYildirim?style=social)](https://www.github.com/FurkanYildirim)
-<img src="https://profile-counter.glitch.me/AvidCoder101/count.svg">
 
 ## Connect with me ☕ :
 
