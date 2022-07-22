@@ -2,9 +2,6 @@
 
 <p align='left'>
 <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="270" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
-  <br>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="45%" />
-<p width="45%">
 
 
 <p  align="center">
