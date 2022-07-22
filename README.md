@@ -9,5 +9,7 @@
 
 ## Connect with me ☕ :
 
- [![@furkanyildirim34](https://img.icons8.com/fluency/48/000000/linkedin.png "Furkan Yıldırım Linkedin Account")](https://www.linkedin.com/in/furkanyildirim34/](https://www.linkedin.com/in/furkanyildirim34/)) [![@furkanyildirim@yahoo.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "Furkan Yıldırım Mail")](furkanyildirim@yahoo.com] (furkanyildirim@yahoo.com))
-
+ <p align="left">
+  <a href="[https://www.linkedin.com/in/furkanyildirim34/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="Furkan Yıldırım" height="30" width="40" /></a>
