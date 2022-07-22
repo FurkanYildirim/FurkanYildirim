@@ -12,7 +12,7 @@
 <tr border="0">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&theme=cobalt&show_icons=true&count_private=true" />
+  <p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat" /> 
   <br></br>
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanYildirim&theme=dark&hide_border=true" />
 
@@ -40,19 +40,5 @@
 </p>  
                  
 
-
-
-
-
-
-
-
-
-
-<p align="left"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="FurkanYildirim" /> </p>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=FurkanYildirim&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
-    alt="FurkanYildirim" 
-    bg_color=#808080/></p>
 
 [![](https://img.shields.io/github/followers/FurkanYildirim?style=social)](https://www.github.com/FurkanYildirim)
