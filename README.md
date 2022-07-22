@@ -1,7 +1,7 @@
 <img align='right' src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&show_icons=true">
 
 # Merhaba, ben Furkan YILDIRIM! 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=FurkanYildirim" alt="FurkanYildirim" /> </p>
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"> </p>
 
 [![](https://img.shields.io/github/followers/FurkanYildirim?style=social)](https://www.github.com/FurkanYildirim)
 
