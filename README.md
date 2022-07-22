@@ -9,6 +9,6 @@
 
 <br>
 
-(https://img.icons8.com/fluency/48/000000/linkedin.png "@furkanyildirim34")](https://www.linkedin.com/in/furkanyildirim34/) [![@furkanyildirim34] [![@furkanyildirim@yahoo.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@furkanyildirim@yahoo.com")](furkanyildirim@yahoo.com)
+ [![@furkanyildirim34](https://img.icons8.com/fluency/48/000000/linkedin.png "@furkanyildirim34")]([https://www.linkedin.com/in/anushkawijegoonawardana97/](https://www.linkedin.com/in/furkanyildirim34/)) [![@furkanyildirim@yahoo.com](https://img.icons8.com/fluency/48/000000/apple-mail.png "@furkanyildirim@yahoo.com")](furkanyildirim@yahoo.com)
 
 <br>
