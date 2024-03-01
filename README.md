@@ -1,4 +1,4 @@
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, Nice to see you.
+# <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif?cid=ecf05e47064477tdp8s0jz3zniijgqrq79qap88w5pvn62mn&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="30"/> Hey, Nice to see you.
 
 
 <div align="center">
