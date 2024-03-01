@@ -1,5 +1,4 @@
-# <img src="[https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430](https://media.giphy.com/media/oOxSXI5D2cvc6kYSvw/giphy.gif?cid=ecf05e47064477tdp8s0jz3zniijgqrq79qap88w5pvn62mn&ep=v1_gifs_search&rid=giphy.gif&ct=g)" width="30"/> Hey, Nice to see you.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=FurkanYildirim&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -8,9 +7,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=FurkanYildirim&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanYildirim&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
